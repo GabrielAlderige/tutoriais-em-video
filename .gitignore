@@ -1,0 +1,7 @@
+# o que o motor gera: vídeos, narração em cache, gravações brutas e mapas de tela
+videos/
+cache-voz/
+tmp/
+mapa/
+__pycache__/
+*.pyc
